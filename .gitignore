@@ -221,3 +221,17 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+# Visual Studio Code
+.vscode/
+
+# Arquivos temporários e backups
+*.tmp
+*.bak
+
+# Arquivos do Windows
+Thumbs.db
+Desktop.ini
+
+# Informações confidenciais
+.env.*
+!.env.example
